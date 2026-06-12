@@ -1,7 +1,7 @@
 # Olá, eu sou o Davi Guimarães! 💻
 ## < Desenvolvedor Full-Stack />
 
-<img width="720" height="1440" alt="capahardware" src="https://github.com/user-attachments/assets/4a262c30-1978-4a68-b1c9-f6e2139d7817" />
+<img width="300" height="500" alt="capahardware" src="https://github.com/user-attachments/assets/4a262c30-1978-4a68-b1c9-f6e2139d7817" />
 
 
 ---
