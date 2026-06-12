@@ -8,7 +8,7 @@
 ### 🚀 Acessar meus projetos
 Meu Site: https://synystersix.freehosting.dev/
 * [🚗 Cadastro de Veículos] (https://synystersix.freehosting.dev/veiculos/) - Sistema Client-Server construído com PHP, JS e MySQL na nuvem.
-* [🎸 Projeto 2](https://synystersix.github.io/Meus-Videos-Tocando-Guitarra/) Meu projeto que utilizei o Front End completo
+* [🎸 Meu Projeto de covers de Guitarra](https://synystersix.github.io/Meus-Videos-Tocando-Guitarra/) Este é um projeto pessoal desenvolvido para consolidar meus aprendizados em HTML5, CSS3 e JavaScript Assíncrono/Manipulação de DOM.
 ---
 
 ### 🛠️ Tecnologias que domino
